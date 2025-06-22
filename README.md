@@ -76,6 +76,36 @@ Bar plot showing the top 15 influential words for Positive and Negative classes 
 
 ---
 
+
+
+
+## 👨‍💻 Author
+
+**Ashad K**  
+📍 India | 💼 Open to opportunities in UAE 
+📧 ashadakber32@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/ashad-k)
+🔗 [GitHub](https://github.com/Ashad777)  
+
+---
+
+## 🤝 Let’s Connect
+
+If you're a recruiter, hiring manager, or fellow data professional, feel free to reach out. I'm actively seeking full-time roles in:
+
+- 📊 **Data Analysis**  
+- 📈 **Business Intelligence**  
+- 🧠 **ML / AI Roles**  
+
+Especially within the **UAE job market**.
+
+---
+
+⭐ If you found this project helpful, feel free to **star the repo** or connect with me!
+
+
+
 ## 📌 License
 
 This project is intended for educational and portfolio use.
+
