@@ -37,7 +37,7 @@ A sentiment classification project using Natural Language Processing (NLP) to an
 
 Visual representation of classification performance.
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](visualizations/confusion_matrix.png)
 
 ---
 
@@ -45,7 +45,7 @@ Visual representation of classification performance.
 
 Most common words in **Positive**, **Neutral**, and **Negative** reviews.
 
-![Sentiment WordClouds](images/sentiment_wordclouds.png)
+![Sentiment WordClouds](visualizations/sentiment_wordclouds.png)
 
 ---
 
@@ -53,7 +53,7 @@ Most common words in **Positive**, **Neutral**, and **Negative** reviews.
 
 Bar plot showing the top 15 influential words for Positive and Negative classes based on model coefficients.
 
-![Top Positive and Negative Words](images/top_positive_negative_words.png)
+![Top Positive and Negative Words](visualizations/top_positive_negative_words.png)
 
 ---
 
